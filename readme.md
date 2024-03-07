@@ -19,10 +19,23 @@ This repository contains the source code for a basic AI chat application. The ap
 
    ```
 
-2. $ cd Basic-AI-Chat
+2. Go the to folder:
 
-3. $ pip install -r requirements.txt
+   ```bash
+   cd Basic-AI-Chat
+
+   ```
+
+3. Install the dependencies
+
+   ```bash
+   pip install -r requirements.txt
+
+   ```
 
 ## Run
 
-$ streamlit run app.py
+```bash
+streamlit run app.py
+
+```
