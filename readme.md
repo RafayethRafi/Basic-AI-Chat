@@ -33,9 +33,9 @@ This repository contains the source code for a basic AI chat application. The ap
 
    ```
 
-## Run
+   ## Run
 
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
-```
+   ```
